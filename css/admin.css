@@ -1,0 +1,14 @@
+/*  Author: Kareena Rumba
+Theme :Resorts Website Admin;
+ Version:1.0;
+ */
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins' sans-serif;
+  }
+
+  .wrapper{
+    border: 1px solid black;
+    padding: 1%;
+  }
