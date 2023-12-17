@@ -20,13 +20,19 @@
 
     <!--  Main Content Section Starts -->
     <div class="main-content">
-        Main Content Goes Here
+        <div class="wrapper">
+            Main Content Goes Here
+
+        </div>
     </div>
     <!--  Main Content Section Ends -->
 
     <!--  Footer Content Section Starts -->
     <div class="footer">
-        Footer Goes Here
+        <div class="wrapper">
+            Footer Goes Here
+
+        </div>
     </div>
     <!--  Footer Content Section Ends -->
 
